@@ -7,7 +7,7 @@
 
 </p>
 
-**<p align="center">The Constitution of India<br>[{PREAMBLE}](https://github.com/anantinfinity/Constitution_of_India/blob/staging/Preamble.txt)</p>**<hr>**<p align="center"> About this project</p>**<br>
+**<p align="center">The Constitution of India<br>[{PREAMBLE}](https://github.com/Constitution-of-India/Constitution_of_India/blob/master/Preamble.txt)</p>**<hr>**<p align="center"> About this project</p>**<br>
 This is a GitHub repository of The Constitution of India. This may help people learn and understand the process of how The Constitution of India was made and has been getting amended from time to time. To the date, As we know The Constitution got amended 105 times.<hr>
 **<p align="center">Overview & History of COI</p>**<br>
 **Ratified:** 26 November 1949; 72 years ago<br>

@@ -4,6 +4,7 @@
 ```
 <hr><p align="center">
 <img width="80" height="128" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/220px-Emblem_of_India.svg.png" >
+
 </p>
 
 **<p align="center">The Constitution of India<br>[{PREAMBLE}](https://github.com/anantinfinity/Constitution_of_India/blob/staging/Preamble.txt)</p>**<hr>**<p align="center"> About this project</p>**<br>
@@ -15,4 +16,3 @@ This is a GitHub repository of The Constitution of India. This may help people l
 **Amendments:** [105](https://github.com/Constitution-of-India/Constitution_of_India/commits/staging "105")<br>
 **Last Amended:** 10th August 2021 (105th)<br>
 **Author(s):** B. R. Ambedkar, B. N. Rau, Surendra Nath Mukherjee and more. ([more info here](https://qr.ae/pvxvz2 "more info here"))<hr>**<p align="center">How to use this project?</p>**<br>*Will be updated soon...*<hr>**<p align="center">Important Links</p>** <br> *Soon...*
-
